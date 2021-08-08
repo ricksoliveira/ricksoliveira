@@ -74,12 +74,8 @@
 
 ###
   
-<a href="#">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center">
-</a>&emsp;h2otraceur@gmail.com&emsp;/&emsp; henrique.oliveira63@fatec.sp.gov.br
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center">&emsp;h2otraceur@gmail.com&emsp;/&emsp; henrique.oliveira63@fatec.sp.gov.br
   
 ###
   
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center">
-</a>&emsp;h2o777#5094
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" align="center">&emsp;h2o777#5094
