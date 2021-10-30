@@ -27,6 +27,8 @@
   <img align="center" alt="Rick-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   &ensp;
   <img align="center" alt="Rick-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  &ensp;
+  <img align="center" alt="Rick-TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
 <br>
@@ -43,18 +45,8 @@
   <img align="center" alt="Rick-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   &ensp;
   <img align="center" alt="Rick-SpringBoot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-</div>
-  
-<br><br>
-
-## 🌱 I’m currently learning:
-  
-<div style="display: inline_block">
-  <img align="center" height="30" alt="Rick-AngularJs" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   &ensp;
-  <img align="center" height="30" alt="Rick-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  &ensp;
-  <img align="center" height="30" alt="Rick-SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Rick-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 </div>
 
 <br><br>
