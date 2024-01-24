@@ -85,6 +85,14 @@
   <a href="https://www.postman.com" target="_blank">
     <img align="center" alt="Rick-Postman" height="40" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   </a>
+  &ensp;
+  <a href="https://www.metabase.com" target="_blank">
+    <img align="center" alt="Rick-HTML" height="40" width="40" src="https://cdn-images.himalayas.app/9tsu19wnvkj1mzu3uh8jdn6lwrm4">
+  </a>
+  &ensp;
+  <a href="https://www.microsoft.com/pt-br/microsoft-365" target="_blank">
+    <img align="center" alt="Rick-HTML" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/1728px-Microsoft_Office_logo_%282013–2019%29.svg.png">
+  </a>
 </div>
 
 <br><br>
@@ -104,7 +112,7 @@
 
 ###
   
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center">&emsp;h2otraceur@gmail.com&emsp;/&emsp; henrique.oliveira63@fatec.sp.gov.br
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center">&emsp;h.servidonioliveira@gmail.com&emsp;/&emsp; henrique.oliveira63@fatec.sp.gov.br
   
 ###
   
