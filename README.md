@@ -33,7 +33,7 @@
   </a>
   &ensp;
   <a href="https://www.mysql.com" target="_blank">
-    <img align="center" alt="Rick-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img align="center" alt="Rick-SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   </a>
   &ensp;
   <a href="https://www.python.org" target="_blank">
